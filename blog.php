@@ -43,7 +43,7 @@
                 
                 </div>
                 <div class="col-auto d-none d-lg-block">         
-                    <img src="resources/pictures/logo3.png" alt="" width="200" height="250" >
+                    <img src="resources/pictures/Logo3.png" alt="" width="200" height="250" >
                 </div>
                 </div>
             </div>  
