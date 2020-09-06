@@ -12,10 +12,10 @@
                 <a class="nav-link <?php echo ($page == "about" ? "active" : "")?> " href="about">ABOUT</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link <?php echo ($page == "projects" ? "active" : "")?>" href="projects" tabindex="-1" aria-disabled="true">Projects</a>
+                <a class="nav-link <?php echo ($page == "projects" ? "active" : "")?>" href="projects" tabindex="-1" aria-disabled="true">PROJECTS</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link <?php echo ($page == "blog" ? "active" : "")?>" href="blog">Blog</a>
+                <a class="nav-link <?php echo ($page == "blog" ? "active" : "")?>" href="blog">BLOG</a>
                 </li>
             </ul>
 
