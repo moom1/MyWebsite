@@ -31,7 +31,7 @@
         <hr class="featurette-divider-small d-md-none d-md-none">
 
 
-            <div class="container row featurette">
+            <div class="container row featurette d-none d-sm-inline-flex">
             
             <div class="col-md-5 slide-in from-left">
                 <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="resources/pictures/Icons_Projects.png" width="500px" height="500px" alt="">
@@ -40,6 +40,19 @@
             <div class="feat  col-md-7 text-justify slide-in from-right">
                 <p class="lead d-none d-sm-inline-flex" style="font-size: 1.8rem;">Projects define the Engineer; hence why I am starting with them. The highlight of my projects is definitely the Winner of “Most popular project award” and the project that scored an unprecedented A+ for a final year project, the “International Student Admission System designed as a dynamic workflow for Web and Mobile”.</p>
                 <p class="lead d-md-none d-md-none">Projects define the Engineer; hence why I am starting with them. The highlight of my projects is definitely the Winner of “Most popular project award” and the project that scored an unprecedented A+ for a final year project, the “International Student Admission System designed as a dynamic workflow for Web and Mobile”.</p>
+                <a class="btn btn-secondary" href="resources/documents/cv2020.pdf" target="_blank">Curriculum Vitae</a>
+
+            </div>
+            </div>
+
+            <div class="container featurette d-md-none d-md-none">
+            
+            <div class="col-md-5 slide-in from-left">
+                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="resources/pictures/Icons_Projects.png" width="500px" height="500px" alt="">
+            </div>
+
+            <div class="feat  col-md-7 text-justify slide-in from-right">
+                <p class="lead ">Projects define the Engineer; hence why I am starting with them. The highlight of my projects is definitely the Winner of “Most popular project award” and the project that scored an unprecedented A+ for a final year project, the “International Student Admission System designed as a dynamic workflow for Web and Mobile”.</p>
                 <a class="btn btn-secondary" href="resources/documents/cv2020.pdf" target="_blank">Curriculum Vitae</a>
 
             </div>
@@ -60,13 +73,13 @@
                 </div>
             </div>
 
-            <div class="container row featurette d-md-none d-md-none">
+            <div class="container featurette d-md-none d-md-none">
                
-                <div class="col-md-5 slide-in from-right">
+                <div class="slide-in from-right">
                     <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="resources/pictures/Icons_About me.png" width="500px" height="500px" alt="">
                 </div>
 
-                <div class="feat  col-md-7 text-justify slide-in from-left">
+                <div class="feat text-justify slide-in from-left">
                     <p class="lead">A twenty-five year old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>                    
                 </div>
             </div>
