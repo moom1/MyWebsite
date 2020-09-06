@@ -38,7 +38,10 @@
             </div>
 
             <div class="feat  col-md-7 text-justify slide-in from-right">
-                <p class="lead" style="font-size: 1.8rem;">Projects define the Engineer; hence why I am starting with them. The highlight of my projects is definitely the Winner of “Most popular project award” and the project that scored an unprecedented A+ for a final year project, the “International Student Admission System designed as a dynamic workflow for Web and Mobile”.</p>
+                <p class="lead d-none d-sm-inline-flex" style="font-size: 1.8rem;">Projects define the Engineer; hence why I am starting with them. The highlight of my projects is definitely the Winner of “Most popular project award” and the project that scored an unprecedented A+ for a final year project, the “International Student Admission System designed as a dynamic workflow for Web and Mobile”.</p>
+                <p class="lead d-md-none d-md-none">Projects define the Engineer; hence why I am starting with them. The highlight of my projects is definitely the Winner of “Most popular project award” and the project that scored an unprecedented A+ for a final year project, the “International Student Admission System designed as a dynamic workflow for Web and Mobile”.</p>
+                <a class="btn btn-secondary" href="resources/documents/cv2020.pdf" target="_blank">Curriculum Vitae</a>
+
             </div>
             </div>
 
@@ -50,8 +53,7 @@
 
             <div class="container row featurette d-none d-sm-inline-flex">
                 <div class="feat  col-md-7 text-justify slide-in from-left">
-                    <p class="lead" style="font-size: 1.8rem;">a 25-year-old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
-                    <a class="btn btn-secondary" href="resources/documents/cv2020.pdf" target="_blank">Curriculum Vitae</a>
+                    <p class="lead" style="font-size: 1.8rem;">A twinty-five year old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
                 </div>
                 <div class="col-md-5 slide-in from-right">
                     <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="resources/pictures/Icons_About me.png" width="500px" height="500px" alt="">
@@ -65,9 +67,7 @@
                 </div>
 
                 <div class="feat  col-md-7 text-justify slide-in from-left">
-                    <p class="lead" style="font-size: 1.8rem;">a 25-year-old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
-                    <a class="btn btn-secondary" href="resources/documents/cv2020.pdf" target="_blank">Curriculum Vitae</a>
-                    
+                    <p class="lead">A twinty-five year old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>                    
                 </div>
             </div>
 
@@ -83,7 +83,8 @@
             </div>
 
             <div class="feat  col-md-7 text-justify slide-in from-right">
-                <p class="lead" style="font-size: 1.8rem;">A blog is a perfect window to a person's mind. My blog is not going to be the most formal as most blogs should be in my opinion. After all, who is formal in their mind, right? The blog is going to be about current technologies that interest me, some ideas that I find intriguing in the software engineering world, and some personal updates throughout my journey</p>
+                <p class="lead d-none d-sm-inline-flex" style="font-size: 1.8rem;">A blog is a perfect window to a person's mind. My blog is not going to be the most formal as most blogs should be in my opinion. After all, who is formal in their mind, right? The blog is going to be about current technologies that interest me, some ideas that I find intriguing in the software engineering world, and some personal updates throughout my journey</p>
+                <p class="lead d-md-none d-md-none">A blog is a perfect window to a person's mind. My blog is not going to be the most formal as most blogs should be in my opinion. After all, who is formal in their mind, right? The blog is going to be about current technologies that interest me, some ideas that I find intriguing in the software engineering world, and some personal updates throughout my journey</p>
             </div>
             
             </div>
