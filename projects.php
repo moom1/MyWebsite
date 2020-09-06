@@ -4,7 +4,7 @@
     <html lang="en">
     <head>
         <?php include "head.php"?>
-        <title>About</title>
+        <title>Projects</title>
     </head>
 
     <style>
