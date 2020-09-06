@@ -27,7 +27,7 @@
                 <a class="" href="https://twitter.com/moom1"><img src="resources/pictures/Twitter.png" class="socialMedia" alt="Twitter"></a>
                 </li>
                 <li class="">
-                    <a class="" href="linkedin.com/in/abdulrahman-ayash-yousef-170a96116"><img src="resources/pictures/LinkedIN.png"  class="socialMedia" alt="LinkedIN"></a>
+                    <a class="" href="https://www.linkedin.com/in/abdulrahman-ayash-yousef-170a96116"><img src="resources/pictures/LinkedIN.png"  class="socialMedia" alt="LinkedIN"></a>
                 </li>
                 <li class="">
                     <a class="" href="mailto:aayyash9@gmail.com"><img src="resources/pictures/E-mail.png"  class="socialMedia" alt="E-mail"></a>

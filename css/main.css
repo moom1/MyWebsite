@@ -58,10 +58,3 @@
   transform: translateX(0);
   opacity: 1;
 }
-
-.introBG{
-  background-image: url('../resources/pictures/Twitter.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
- }
