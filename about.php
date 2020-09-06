@@ -30,7 +30,7 @@
 
         <div class="container row featurette d-none d-sm-inline-flex red-border">
                 <div class="feat  col-md-7 text-justify slide-in from-left">
-                    <p class="lead" style="font-size: 1.8rem;">My name is Abdulrahman Ayash Yousef, as a Yemeni who lived his whole life in Jeddah, Saudi Arabia then continued his education in Multimedia University in Malaysia, I am always challenged and faced with adversity but with each challenge I learned valuable lessons.  I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
+                    <p class="lead" style="font-size: 1.8rem;">My name is Abdulrahman Ayash Yousef, as a Yemeni who lived his whole life in Jeddah, Saudi Arabia then continued his education in Multimedia University in Malaysia, I am always challenged and faced with adversity but with each challenge I learn valuable lessons.  I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
                     <a class="btn btn-secondary" href="resources/documents/cv2020.pdf" target="_blank">Curriculum Vitae</a>
                     <a class="btn btn-secondary" href="resources/documents/Official-Academic-Transcript.pdf" target="_blank">Academic Transcript</a>
                 </div>
@@ -46,7 +46,7 @@
                 </div>
 
                 <div class="feat  col-md-7 text-justify slide-in from-left">
-                    <p class="lead">My name is Abdulrahman Ayash Yousef, As a Yemeni who lived his whole life in Jeddah, Saudi Arabia then continued his education in Multimedia University in Malaysia, I am always challenged and faced with adversity but with each challenge I learned valuable lessons.  I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
+                    <p class="lead">My name is Abdulrahman Ayash Yousef, As a Yemeni who lived his whole life in Jeddah, Saudi Arabia then continued his education in Multimedia University in Malaysia, I am always challenged and faced with adversity but with each challenge I learn valuable lessons.  I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
                     <a class="btn btn-secondary" href="resources/documents/cv2020.pdf" target="_blank">Curriculum Vitae</a>
                     <a class="btn btn-secondary" href="resources/documents/Official-Academic-Transcript.pdf" target="_blank">Academic Transcript</a>
                 </div>
