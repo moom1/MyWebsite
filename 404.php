@@ -1,5 +1,3 @@
-<?php $page = "projects";?>
-
 <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -58,7 +56,8 @@ hr {
     <div class="topleft">
     </div>
     <div class="middle">
-        <h1>Page doesn't exist</h1>
+        <h1>Page doesn't exist, contact me if you think it should be here!</h1>
+        <a class="btn btn-secondary" href="home">Back to home page</a>
         <hr>
     </div>
     <div class="bottomleft">
