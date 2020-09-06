@@ -53,7 +53,7 @@
 
             <div class="container row featurette d-none d-sm-inline-flex">
                 <div class="feat  col-md-7 text-justify slide-in from-left">
-                    <p class="lead" style="font-size: 1.8rem;">A twinty-five year old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
+                    <p class="lead" style="font-size: 1.8rem;">A twenty-five year old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>
                 </div>
                 <div class="col-md-5 slide-in from-right">
                     <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="resources/pictures/Icons_About me.png" width="500px" height="500px" alt="">
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="feat  col-md-7 text-justify slide-in from-left">
-                    <p class="lead">A twinty-five year old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>                    
+                    <p class="lead">A twenty-five year old fresh graduate Software Engineer. My current goal is building a solid Software Engineering career. I speak English, Arabic, and conversational Japanese. I am always available to talk, so reach out!</p>                    
                 </div>
             </div>
 
