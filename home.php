@@ -90,13 +90,23 @@
             <hr class="featurette-divider">
 
 
-            <div class="container row featurette">
+            <div class="container row featurette d-none d-sm-inline-flex">
             <div class="col-md-5 slide-in from-left">
                 <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="resources/pictures/Icons_Blog.png" width="500px" height="500px" alt="">
             </div>
 
             <div class="feat  col-md-7 text-justify slide-in from-right">
                 <p class="lead d-none d-sm-inline-flex" style="font-size: 1.8rem;">A blog is a perfect window to a person's mind. My blog is not going to be the most formal as most blogs should be in my opinion. After all, who is formal in their mind, right? The blog is going to be about current technologies that interest me, some ideas that I find intriguing in the software engineering world, and some personal updates throughout my journey</p>
+            </div>
+            
+            </div>
+
+            <div class="container featurette d-md-none d-md-none">
+            <div class="col-md-5 slide-in from-left">
+                <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="resources/pictures/Icons_Blog.png" width="500px" height="500px" alt="">
+            </div>
+
+            <div class="feat  col-md-7 text-justify slide-in from-right">
                 <p class="lead d-md-none d-md-none">A blog is a perfect window to a person's mind. My blog is not going to be the most formal as most blogs should be in my opinion. After all, who is formal in their mind, right? The blog is going to be about current technologies that interest me, some ideas that I find intriguing in the software engineering world, and some personal updates throughout my journey</p>
             </div>
             
