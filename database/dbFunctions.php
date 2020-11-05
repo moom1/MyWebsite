@@ -8,7 +8,8 @@ function setConnectionInfo($values=array()){
 	$user = $values[1];
 	$password = $values[2];
 	$pdo = new PDO($connString,$user, $password);
-	$pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
+    $pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
+    echo "before return pdo";
 
 	return $pdo;
 	}
