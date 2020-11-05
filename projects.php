@@ -1,8 +1,10 @@
 <?php 
 
+require_once('database/connection.php');
+require_once('database/dbFunctions.php');
 $page = "projects";
 $test = read("test");
-echo $test;
+
 
 ?>
 
@@ -64,7 +66,12 @@ hr {
     <div class="topleft">
     </div>
     <div class="middle">
-        <h1>PROJECTS ARE UNDER CONSTRUCTION</h1>
+        <h1>
+        <?php
+        
+        echo $test;
+        ?>
+        </h1>
         <hr>
     </div>
     <div class="bottomleft">
