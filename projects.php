@@ -1,13 +1,15 @@
 <?php 
 
-require_once('database/connection.php');
-// require_once('database/dbFunctions.php');
+$page = "projects";
+
+require 'database/connect.inc.php'; 
+
 $query = "SELECT * FROM test";
 $result = $db->query($query);
 while ($row = $result->fetch(PDO::FETCH_ASSOC)) {
-  echo $row
+  echo $row;
 }
-$page = "projects";
+
 echo "hi";
 
 ?>
