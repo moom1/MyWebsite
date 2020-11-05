@@ -6,10 +6,10 @@ $page = "projects";
 require 'database/connect.php'; 
 require 'database/dbFunctions.php'; 
 
-$tests = read('test')
-  foreach ($tests as $test) {
-	    echo $test[0];
-    }
+$tests = read('test');
+foreach ($tests as $test) {
+  echo $test[0];
+}
 
 
 ?>
