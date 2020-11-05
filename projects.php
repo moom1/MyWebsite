@@ -1,16 +1,16 @@
 <?php 
 
-$page = "projects";
-
-require 'database/connect.inc.php'; 
-
-$query = "SELECT * FROM test";
-$result = $db->query($query);
-while ($row = $result->fetch(PDO::FETCH_ASSOC)) {
-  echo $row;
-}
-
 echo "hi";
+
+$page = "projects";
+require 'database/connect.php'; 
+require 'database/dbFunctions.php'; 
+
+$tests = read('test')
+  foreach ($tests as $test) {
+	    echo $test[0];
+    }
+
 
 ?>
 
@@ -75,7 +75,7 @@ hr {
         <h1>
         <?php
         
-        echo $test;
+       
         echo "Hi";
         Under construction
         ?>
