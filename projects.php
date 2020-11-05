@@ -70,6 +70,7 @@ hr {
         <?php
         
         echo $test;
+        echo "Hi";
         ?>
         </h1>
         <hr>
