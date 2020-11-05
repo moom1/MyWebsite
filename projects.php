@@ -4,7 +4,7 @@ require_once('database/connection.php');
 require_once('database/dbFunctions.php');
 $page = "projects";
 $test = read("test");
-
+echo "hi";
 
 ?>
 
@@ -71,6 +71,7 @@ hr {
         
         echo $test;
         echo "Hi";
+        Under construction
         ?>
         </h1>
         <hr>
