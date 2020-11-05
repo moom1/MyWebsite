@@ -1,4 +1,10 @@
-<?php $page = "projects";?>
+<?php 
+
+$page = "projects";
+$test = read("test");
+echo $test;
+
+?>
 
 <!DOCTYPE html>
     <html lang="en">
