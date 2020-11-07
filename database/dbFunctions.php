@@ -1,14 +1,12 @@
 <?php
-// require 'connect.php'; 
-
 
 //sets connections
-function setConnectionInfo(){
+function setConnectionInfo($values=array()){
 	try {
-	// $connString = $values[0];
-	// $user = $values[1];
-	// $password = $values[2];
-	$pdo = new PDO('mysql:host=localhost;dbname=abdulrb0_portfolio','abdulrb0_root', '7q26h8P86eC6acB');
+	$connString = $values[0];
+	$user = $values[1];
+	$password = $values[2];
+	$pdo = new PDO($connString,$user, $password);
     $pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
     echo "before return pdo";
 
@@ -21,7 +19,7 @@ function setConnectionInfo(){
 
 //General Read function from any table
 function read($table){
-	$pdo = setConnectionInfo();
+	$pdo = setConnectionInfo(array(DBCONNECTION,DBUSER,DBPASS));
 	$sql = "SELECT * FROM $table" ;
 	try {
 	$statement = $pdo->prepare($sql);

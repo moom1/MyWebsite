@@ -17,21 +17,25 @@
    /*  $db = new PDO("mysql:host=$db_host;dbname=$db_name", $db_user, $db_pass);
     $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); */
 
-    echo "using constants";
-    $sql = "SELECT * FROM test" ;
+    echo "using function";
+    $tests = read("test");
+
+   /*  $sql = "SELECT * FROM test" ;
 	try {
 	$statement = $db->prepare($sql);
 	$statement->execute();
-	}
+	}s
 	catch(PDOException $e){
 		die($e->getMessage());
 	}
     $db = null;
     $tests = $statement;
+
+    */
     
     foreach ($tests as $test) {
 	    echo $test[0];
-    }
+    } 
     
 
 
