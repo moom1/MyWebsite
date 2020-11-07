@@ -9,6 +9,7 @@ require_once('database/connect.php');
 $tests = read('test');
 foreach ($tests as $test) {
   echo $test[0];
+  echo "inside tests";
 }
 
 ?>
