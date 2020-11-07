@@ -21,52 +21,67 @@ $page = "projects";
         </div>
     </div>
 
+    <hr class="featurette-divider">
+
 
     <div class="container">
   <div class="card-deck mb-3 text-center">
+
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Free</h4>
+        <h4 class="my-0 font-weight-normal">Technologies</h4>
       </div>
       <div class="card-body">
-        <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
+        <h1 class="card-title pricing-card-title">Back End</h1>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>10 users included</li>
-          <li>2 GB of storage</li>
-          <li>Email support</li>
-          <li>Help center access</li>
+          <li>PHP</li>
+          <li>MySQL</li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+
+        <h1 class="card-title pricing-card-title">Front End</h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Bootstrap</li>
+          <li>Custom html</li>
+          <li>Custom css</li>
+          <li>Custom js</li>
+        </ul>
       </div>
     </div>
+
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Pro</h4>
+        <h4 class="my-0 font-weight-normal">Development phases</h4>
       </div>
       <div class="card-body">
-        <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
+        <h1 class="card-title pricing-card-title">phase 1</h1>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>20 users included</li>
-          <li>10 GB of storage</li>
-          <li>Priority email support</li>
-          <li>Help center access</li>
+          <li>Requested as a web development final project</li>
+          <li>Built in 5 days with no long term considerations</li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
+
+        <h1 class="card-title pricing-card-title">phase 2</h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>started to consider the project as a long term product for my portfolio</li>
+          <li>Used my base code to build an improved, yet still offline version</li>
+        </ul>
+
+        <h1 class="card-title pricing-card-title">phase 3</h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Want to make it live</li>
+          <li>currently working on the demo</li>
+        </ul>
       </div>
     </div>
+    
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Enterprise</h4>
+        <h4 class="my-0 font-weight-normal">Demo details</h4>
       </div>
       <div class="card-body">
-        <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
+        <h1 class="card-title pricing-card-title">TBA</h1>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>30 users included</li>
-          <li>15 GB of storage</li>
-          <li>Phone and email support</li>
-          <li>Help center access</li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
+        <button type="button" class="btn btn-lg btn-block btn-primary">Try the demo! (SOON)</button>
       </div>
     </div>
   </div>
