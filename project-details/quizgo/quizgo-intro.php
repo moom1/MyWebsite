@@ -1,20 +1,18 @@
 <?php
 
 $page = "projects";
-$dir = dirname(__FILE__);
-echo $dir;
 ?>
 
 <!DOCTYPE html>
     <html lang="en">
     <head>
-        <?php include "../../../head.php"?>
+        <?php include "/home2/abdulrb0/public_html/portfolio/head.php"?>
         <title>Projects - QuizGo</title>
     </head>
 
     <!-- Navigation -->
     
-    <?php include "../../../porfolio/topNav.php"?>
+    <?php include "/home2/abdulrb0/public_html/portfolio/topNav.php"?>
    
 
 
