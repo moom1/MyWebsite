@@ -1,10 +1,9 @@
 <?php 
 
-echo "hi";
 
 $page = "projects";
-require_once('database/dbFunctions.php');
 require_once('database/connect.php');
+require_once('database/dbFunctions.php');
 
 $tests = read('test');
 foreach ($tests as $test) {
