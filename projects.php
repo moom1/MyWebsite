@@ -3,7 +3,8 @@
 echo "hi";
 
 $page = "projects";
-require 'database/dbFunctions.php'; 
+require_once('database/dbFunctions.php');
+require_once('database/connect.php');
 
 $tests = read('test');
 foreach ($tests as $test) {

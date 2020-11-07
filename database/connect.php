@@ -13,17 +13,17 @@ require_once('dbFunctions.php');
     define('DBPASS','7q26h8P86eC6acB');
 
 
-    $db = new PDO(DBCONNECTION, DBUSER, DBPASS);
-    $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+   /*  $db = new PDO(DBCONNECTION, DBUSER, DBPASS);
+    $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); */
 
 
    /*  $db = new PDO("mysql:host=$db_host;dbname=$db_name", $db_user, $db_pass);
     $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); */
 
-    echo "using function3746";
+   /*  echo "using function3746";
     testF("test");
     $tests = read("test");
-
+ */
    /*  $sql = "SELECT * FROM test" ;
 	try {
 	$statement = $db->prepare($sql);
@@ -37,9 +37,9 @@ require_once('dbFunctions.php');
 
     */
     
-    foreach ($tests as $test) {
+  /*   foreach ($tests as $test) {
 	    echo $test[0];
-    } 
+    }  */
     
 
 
