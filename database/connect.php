@@ -1,6 +1,6 @@
 <?php
 
-require 'dbFunctions.php'; 
+require_once('database/dbFunctions.php');
 
    /*  $db_host = "localhost";
     $db_name = "abdulrb0_portfolio";
