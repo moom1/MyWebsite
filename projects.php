@@ -35,7 +35,7 @@ require_once('database/dbFunctions.php');
                   <div class="mb-1 text-muted">N/A</div>
               <p class="card-text mb-auto">QuizGo is a platform built to facilitate MCQ testing in an educational environment. It is Built to serve lecturers, advisors, and most importantly, students</p>
                   
-              <a href="projects/quizgo-intro" class="stretched-link">view project details</a>
+              <a href="project-details/quizgo/quizgo-intro" class="stretched-link">view project details</a>
               </div>
               <div class="col-auto d-none d-lg-block">         
                   <img src="resources/pictures/Logo3.png" alt="" width="200" height="250" >
