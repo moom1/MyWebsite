@@ -8,13 +8,13 @@ echo $dir;
 <!DOCTYPE html>
     <html lang="en">
     <head>
-        <?php include "$dir/../head.php"?>
+        <?php include "../../../head.php"?>
         <title>Projects - QuizGo</title>
     </head>
 
     <!-- Navigation -->
     
-    <?php include "../../porfolio/topNav.php"?>
+    <?php include "../../../porfolio/topNav.php"?>
    
 
 

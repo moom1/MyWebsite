@@ -1,3 +1,10 @@
+<?php 
+
+$dir = dirname(__FILE__);
+echo $dir;
+
+?>
+
 <nav id="navbar" class="navbar navbar-light navbar-expand-md fixed-top">
     <div class="container">
         <a class="navbar-brand" href="home"><img src="resources/pictures/logo.png" alt="logo" id="logo"></a>
