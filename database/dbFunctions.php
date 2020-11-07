@@ -1,5 +1,5 @@
 <?php
-require_once('connect.php');
+require('connect.php');
 
 //sets connections
 function setConnectionInfo($values=array()){
