@@ -32,6 +32,10 @@ function read($table){
 	return $statement;
 }
 
+function testF($table){
+	echo $table;
+}
+
 function readDesOrder($table){
 	$pdo = setConnectionInfo(array(DBCONNECTION,DBUSER,DBPASS));
 	$sql = "SELECT * FROM $table order by id desc" ;
