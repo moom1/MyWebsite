@@ -20,7 +20,7 @@ require_once('database/dbFunctions.php');
    /*  $db = new PDO("mysql:host=$db_host;dbname=$db_name", $db_user, $db_pass);
     $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); */
 
-    echo "using function3";
+    echo "using function3746";
     testF("test");
     $tests = read("test");
 
