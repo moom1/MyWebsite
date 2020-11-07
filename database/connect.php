@@ -1,4 +1,7 @@
 <?php
+
+require 'dbFunctions.php'; 
+
    /*  $db_host = "localhost";
     $db_name = "abdulrb0_portfolio";
     $db_user = "abdulrb0_root";
