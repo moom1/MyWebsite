@@ -1,6 +1,6 @@
 <nav id="navbar" class="navbar navbar-light navbar-expand-md fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="/portfolio/home"><img src="/portfolioresources/pictures/logo.png" alt="logo" id="logo"></a>
+        <a class="navbar-brand" href="/portfolio/home"><img src="/portfolio/resources/pictures/logo.png" alt="logo" id="logo"></a>
         <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon custom-toggler"></span>
         </button>

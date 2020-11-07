@@ -16,6 +16,6 @@ crossorigin="anonymous"></script>
 
 <!-- Custom styles for this template -->
 
-<link rel="stylesheet" href="/css/main.css" />
-<link href="/css/carousel.css" rel="stylesheet">
-<link rel="icon" href="/resources/pictures/logo3.png">
+<link rel="stylesheet" href="/portfolio/css/main.css" />
+<link href="/portfolio/css/carousel.css" rel="stylesheet">
+<link rel="icon" href="/portfolio/resources/pictures/logo3.png">
