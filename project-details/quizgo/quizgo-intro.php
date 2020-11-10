@@ -20,7 +20,6 @@ $dir = dirname(__FILE__);
         <h1 class="display-4 font-weight-normal text-white">QuizGo</h1>
         <p class="lead font-weight-normal text-white">QuizGo is a platform built to facilitate MCQ testing in an educational environment. It is Built to serve lecturers, advisors, and most importantly, students. <a href="/portfolio/resources/documents/QuizGo-report.pdf">Techical report and Documentation </a></p>
         </div>
-        <button type="button" class="btn btn-lg btn-block btn-outline-primary disabled" href="<?php $dir . "lecturer" ?>" >Try the demo! (Lecturer)</button>
 
     </div>
 
