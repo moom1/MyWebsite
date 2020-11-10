@@ -1,7 +1,7 @@
 <?php
 
 $page = "projects";
-$dir = $dirname(__FILE__);
+$dir = dirname(__FILE__);
 ?>
 
 <!DOCTYPE html>
