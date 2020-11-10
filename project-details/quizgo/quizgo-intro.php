@@ -82,7 +82,7 @@ $dir = dirname(__FILE__);
         <h1 class="card-title pricing-card-title">TBA</h1>
         <ul class="list-unstyled mt-3 mb-4">
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-outline-primary disabled" href="http://abdulrahman-yousef.com/quizgo/html/general/login.php">Try the demo! (SOON)</button>
+        <button type="button" class="btn btn-lg btn-block btn-outline-primary" href="http://abdulrahman-yousef.com/quizgo/html/general/login.php">Try the demo! (SOON)</button>
       </div>
     </div>
   </div>
